@@ -19,7 +19,7 @@ export default function List() {
   return (
     <div className="container">
       <h2>
-        <strong>popular</strong> movie
+        <strong>popular</strong> movie02
       </h2>
       <ul className="movie-list">
         {movies.map((item, idx) => {
